@@ -1,0 +1,16 @@
+@charset "utf-8";
+a {
+  display: block;
+  color: #000;
+  text-align: left;
+  padding: 10px;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+a:hover {
+	background-color: #6f6f6f;
+	color: #fff;
+}
